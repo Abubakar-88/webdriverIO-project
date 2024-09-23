@@ -1,0 +1,111 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "C:.Users.siddi.TestignFrameWork.sampleProject.test.specs.login.feature",
+    "children" : [ {
+      "name" : "Given I am on the login page",
+      "uid" : "7a1e2b83480b5a6f",
+      "parentUid" : "1e2b7839c23de37168f0c7f565077441",
+      "status" : "passed",
+      "time" : {
+        "start" : 1727074206810,
+        "stop" : 1727074208488,
+        "duration" : 1678
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-126.0.6478.63" ]
+    }, {
+      "name" : "When I enter \"testpilot@gmail.com\" in the username field",
+      "uid" : "5732d2ec86b1fefb",
+      "parentUid" : "1e2b7839c23de37168f0c7f565077441",
+      "status" : "passed",
+      "time" : {
+        "start" : 1727074208489,
+        "stop" : 1727074208498,
+        "duration" : 9
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-126.0.6478.63" ]
+    }, {
+      "name" : "And I enter \"1234\" in the password field",
+      "uid" : "52a5df7f118de0d5",
+      "parentUid" : "1e2b7839c23de37168f0c7f565077441",
+      "status" : "passed",
+      "time" : {
+        "start" : 1727074208501,
+        "stop" : 1727074208774,
+        "duration" : 273
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-126.0.6478.63" ]
+    }, {
+      "name" : "And I click on the login button",
+      "uid" : "d8362d1d367324fa",
+      "parentUid" : "1e2b7839c23de37168f0c7f565077441",
+      "status" : "passed",
+      "time" : {
+        "start" : 1727074208775,
+        "stop" : 1727074211487,
+        "duration" : 2712
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-126.0.6478.63" ]
+    }, {
+      "name" : "Then I should see the dashboard page",
+      "uid" : "8d7acffb9877f785",
+      "parentUid" : "1e2b7839c23de37168f0c7f565077441",
+      "status" : "failed",
+      "time" : {
+        "start" : 1727074211488,
+        "stop" : 1727074211519,
+        "duration" : 31
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-126.0.6478.63" ]
+    } ],
+    "uid" : "C:.Users.siddi.TestignFrameWork.sampleProject.test.specs.login.feature"
+  }, {
+    "name" : "hook:",
+    "uid" : "222385c3f1b22103",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "failed",
+    "time" : {
+      "start" : 1727074211520,
+      "stop" : 1727074211522,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  } ]
+}

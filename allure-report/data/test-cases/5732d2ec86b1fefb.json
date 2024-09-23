@@ -1,0 +1,56 @@
+{
+  "uid" : "5732d2ec86b1fefb",
+  "name" : "When I enter \"testpilot@gmail.com\" in the username field",
+  "historyId" : "c89604edf4aab4d69c373c9d01e22bfe",
+  "time" : {
+    "start" : 1727074208489,
+    "stop" : 1727074208498,
+    "duration" : 9
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "package",
+    "value" : "C:.Users.siddi.TestignFrameWork.sampleProject.test.specs.login.feature"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Internet Guinea Pig Website: I can login in my dashboard without any error"
+  }, {
+    "name" : "feature",
+    "value" : "The Internet Guinea Pig Website: I can login in my dashboard without any error"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-126.0.6478.63"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5732d2ec86b1fefb.json",
+  "parameterValues" : [ "chrome-126.0.6478.63" ]
+}

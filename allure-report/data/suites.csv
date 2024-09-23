@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Sep 23 12:50:06 BDT 2024","Mon Sep 23 12:50:08 BDT 2024","1678","","The Internet Guinea Pig Website: I can login in my dashboard without any error","","","","Given I am on the login page",""
+"passed","Mon Sep 23 12:50:08 BDT 2024","Mon Sep 23 12:50:11 BDT 2024","2712","","The Internet Guinea Pig Website: I can login in my dashboard without any error","","","","And I click on the login button",""
+"failed","Mon Sep 23 12:50:11 BDT 2024","Mon Sep 23 12:50:11 BDT 2024","31","","The Internet Guinea Pig Website: I can login in my dashboard without any error","","","","Then I should see the dashboard page",""
+"passed","Mon Sep 23 12:50:08 BDT 2024","Mon Sep 23 12:50:08 BDT 2024","9","","The Internet Guinea Pig Website: I can login in my dashboard without any error","","","","When I enter ""testpilot@gmail.com"" in the username field",""
+"failed","Mon Sep 23 12:50:11 BDT 2024","Mon Sep 23 12:50:11 BDT 2024","2","","","","","","hook:",""
+"passed","Mon Sep 23 12:50:08 BDT 2024","Mon Sep 23 12:50:08 BDT 2024","273","","The Internet Guinea Pig Website: I can login in my dashboard without any error","","","","And I enter ""1234"" in the password field",""

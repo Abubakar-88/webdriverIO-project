@@ -1,0 +1,111 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "The Internet Guinea Pig Website: I can login in my dashboard without any error",
+    "children" : [ {
+      "name" : "Given I am on the login page",
+      "uid" : "7a1e2b83480b5a6f",
+      "parentUid" : "14b2e7859b6b46b8eb80c82306bed014",
+      "status" : "passed",
+      "time" : {
+        "start" : 1727074206810,
+        "stop" : 1727074208488,
+        "duration" : 1678
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-126.0.6478.63" ]
+    }, {
+      "name" : "When I enter \"testpilot@gmail.com\" in the username field",
+      "uid" : "5732d2ec86b1fefb",
+      "parentUid" : "14b2e7859b6b46b8eb80c82306bed014",
+      "status" : "passed",
+      "time" : {
+        "start" : 1727074208489,
+        "stop" : 1727074208498,
+        "duration" : 9
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-126.0.6478.63" ]
+    }, {
+      "name" : "And I enter \"1234\" in the password field",
+      "uid" : "52a5df7f118de0d5",
+      "parentUid" : "14b2e7859b6b46b8eb80c82306bed014",
+      "status" : "passed",
+      "time" : {
+        "start" : 1727074208501,
+        "stop" : 1727074208774,
+        "duration" : 273
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-126.0.6478.63" ]
+    }, {
+      "name" : "And I click on the login button",
+      "uid" : "d8362d1d367324fa",
+      "parentUid" : "14b2e7859b6b46b8eb80c82306bed014",
+      "status" : "passed",
+      "time" : {
+        "start" : 1727074208775,
+        "stop" : 1727074211487,
+        "duration" : 2712
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-126.0.6478.63" ]
+    }, {
+      "name" : "Then I should see the dashboard page",
+      "uid" : "8d7acffb9877f785",
+      "parentUid" : "14b2e7859b6b46b8eb80c82306bed014",
+      "status" : "failed",
+      "time" : {
+        "start" : 1727074211488,
+        "stop" : 1727074211519,
+        "duration" : 31
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-126.0.6478.63" ]
+    } ],
+    "uid" : "14b2e7859b6b46b8eb80c82306bed014"
+  }, {
+    "name" : "hook:",
+    "uid" : "222385c3f1b22103",
+    "parentUid" : "98d3104e051c652961429bf95fa0b5d6",
+    "status" : "failed",
+    "time" : {
+      "start" : 1727074211520,
+      "stop" : 1727074211522,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  } ]
+}

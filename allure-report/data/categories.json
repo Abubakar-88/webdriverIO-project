@@ -1,0 +1,50 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Error: expect(received).toBe(expected) // Object.is equality",
+      "children" : [ {
+        "name" : "Then I should see the dashboard page",
+        "uid" : "8d7acffb9877f785",
+        "parentUid" : "23d31088e622dd99f0c1272da23a5f8f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1727074211488,
+          "stop" : 1727074211519,
+          "duration" : 31
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-126.0.6478.63" ]
+      } ],
+      "uid" : "23d31088e622dd99f0c1272da23a5f8f"
+    }, {
+      "children" : [ {
+        "name" : "hook:",
+        "uid" : "222385c3f1b22103",
+        "parentUid" : "666d1a31450af3ae8459f14f07f9a1b4",
+        "status" : "failed",
+        "time" : {
+          "start" : 1727074211520,
+          "stop" : 1727074211522,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "666d1a31450af3ae8459f14f07f9a1b4"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

@@ -1,0 +1,62 @@
+{
+  "uid" : "8d7acffb9877f785",
+  "name" : "Then I should see the dashboard page",
+  "historyId" : "131ec95500565ff1181272cf282b89b7",
+  "time" : {
+    "start" : 1727074211488,
+    "stop" : 1727074211519,
+    "duration" : 31
+  },
+  "status" : "failed",
+  "statusMessage" : "Error: expect(received).toBe(expected) // Object.is equality",
+  "statusTrace" : "Error: expect(received).toBe(expected) // Object.is equality\n\nExpected: true\nReceived: false\n    at World.<anonymous> (C:\\Users\\siddi\\TestignFrameWork\\sampleProject\\features\\step-definitions\\LoginStep.js:25:23)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "package",
+    "value" : "C:.Users.siddi.TestignFrameWork.sampleProject.test.specs.login.feature"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Internet Guinea Pig Website: I can login in my dashboard without any error"
+  }, {
+    "name" : "feature",
+    "value" : "The Internet Guinea Pig Website: I can login in my dashboard without any error"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-126.0.6478.63"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "8d7acffb9877f785.json",
+  "parameterValues" : [ "chrome-126.0.6478.63" ]
+}

@@ -1,0 +1,56 @@
+{
+  "uid" : "7a1e2b83480b5a6f",
+  "name" : "Given I am on the login page",
+  "historyId" : "e6eda262908f7c39735adfda88ef3dc7",
+  "time" : {
+    "start" : 1727074206810,
+    "stop" : 1727074208488,
+    "duration" : 1678
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "package",
+    "value" : "C:.Users.siddi.TestignFrameWork.sampleProject.test.specs.login.feature"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Internet Guinea Pig Website: I can login in my dashboard without any error"
+  }, {
+    "name" : "feature",
+    "value" : "The Internet Guinea Pig Website: I can login in my dashboard without any error"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-126.0.6478.63"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7a1e2b83480b5a6f.json",
+  "parameterValues" : [ "chrome-126.0.6478.63" ]
+}
